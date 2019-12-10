@@ -4,7 +4,7 @@
 
 |       Status      | Year  |         Course         |     Teacher     |       Link      |
 | :---------------: | :---: | :--------------------: |  :------------: | :-------------: |
-| :white_check_mark |  2018 |  Web Development w/ Go |    Jon Calhoun  |                 |
+| :white_check_mark: |  2018 |  Web Development w/ Go |    Jon Calhoun  |                 |
 
 
 ## Languages
