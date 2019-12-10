@@ -22,17 +22,16 @@
 | CSS (Material)  |    :fire:     |  :fire: |  :fire: |  :fire: |     :fire:    |         |
 | CSS (Bootstrap) |    :fire:     |  :fire: |  :fire: |  :fire: |               |         |
 | JavaScript      |    :fire:     |  :fire: |  :fire: |         |               |         |
-| JS: ReactJS     |    :fire:     |  :fire: |         |         |               |         |
-| JS: GopherJS    |    :fire:     |         |         |         |               |         |
+| React           |    :fire:     |  :fire: |         |         |               |         |
+| GopherJS        |    :fire:     |         |         |         |               |         |
 | Node.js         |    :fire:     |  :fire: |         |         |               |         |
 | Markdown        |    :fire:     |  :fire: |  :fire: |  :fire: |     :fire:    |         |
 | Ruby on Rails   |    :fire:     |  :fire: |         |         |               |         |
 | Go              |    :fire:     |  :fire: |  :fire: |  :fire: |               |         |
 | SQL             |    :fire:     |  :fire: |  :fire: |  :fire: |               |         |
-| SQL: PostgreSQL |    :fire:     |  :fire: |  :fire: |  :fire: |               |         |
-| SQL: MySQL      |    :fire:     |  :fire: |         |         |               |         |
-| NoSQL           |    :fire:     |  :fire: |         |         |               |         |
-| NoSQL: MongoDB  |    :fire:     |         |         |         |               |         |
+| PostgreSQL      |    :fire:     |  :fire: |  :fire: |  :fire: |               |         |
+| MySQL           |    :fire:     |  :fire: |         |         |               |         |
+| MongoDB         |    :fire:     |         |         |         |               |         |
 
 
 ## Tools 
