@@ -1,5 +1,8 @@
 # My Learning Tracker
 
+### Portfolio: [Projects](https://oneware.io/projects)
+### Learning Log: Coming Soon
+
 ## Courses
 
 |       Status       |  Year   |         Course         |     Teacher     |                    Links                  |
