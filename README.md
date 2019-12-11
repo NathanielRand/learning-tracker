@@ -3,6 +3,7 @@
 ### Portfolio: [Projects](https://oneware.io/projects)
 ### Learning Log: Coming Soon
 
+
 ## Courses
 
 |       Status       |  Year   |         Course         |     Teacher     |                    Links                  |
@@ -16,39 +17,49 @@
 | :white_check_mark: |   2015  |  Ruby on Rails Tutorial       |    Michael Hartl      | [Course Link](https://www.railstutorial.org/) |
 
 
-## Languages
+## Languages / Frameworks / Libraries / ETC
 
 | Languages       | Introduction  |  Basics |   Good  |   Mid   |   Confident   |  Master |
 | --------------: | :-----------: |  :----: |  :----: |  :----: |  :---------:  |  :----: |
 | HTML5           |    :fire:     |  :fire: |  :fire: |  :fire: |     :fire:    |         |
 | CSS3            |    :fire:     |  :fire: |  :fire: |  :fire: |     :fire:    |         |
 | CSS (Material)  |    :fire:     |  :fire: |  :fire: |  :fire: |     :fire:    |         |
-| CSS (Bootstrap) |    :fire:     |  :fire: |  :fire: |  :fire: |               |         |
+| CSS (Bootstrap) |    :fire:     |  :fire: |  :fire: |         |               |         |
 | JavaScript      |    :fire:     |  :fire: |  :fire: |         |               |         |
+| JSON            |    :fire:     |  :fire: |  :fire: |  :fire: |     :fire:    |         |
 | React           |    :fire:     |  :fire: |         |         |               |         |
+| JSX             |    :fire:     |  :fire: |         |         |               |         |
+| Babel           |    :fire:     |         |         |         |               |         |
 | GopherJS        |    :fire:     |         |         |         |               |         |
 | Node.js         |    :fire:     |  :fire: |         |         |               |         |
 | Markdown        |    :fire:     |  :fire: |  :fire: |  :fire: |     :fire:    |         |
 | Ruby on Rails   |    :fire:     |  :fire: |         |         |               |         |
 | Go              |    :fire:     |  :fire: |  :fire: |  :fire: |               |         |
+| GORM            |    :fire:     |  :fire: |         |         |               |         |
+| Gorilla         |    :fire:     |  :fire: |         |         |               |         |
 | SQL             |    :fire:     |  :fire: |  :fire: |  :fire: |               |         |
-| PostgreSQL      |    :fire:     |  :fire: |  :fire: |  :fire: |               |         |
+| PostgreSQL      |    :fire:     |  :fire: |  :fire: |         |               |         |
 | MySQL           |    :fire:     |  :fire: |         |         |               |         |
 | MongoDB         |    :fire:     |         |         |         |               |         |
 
 
 ## Tools 
 
-| Tools            | Introduction  |  Basics |   Good  |   Mid   |   Confident   |  Master |
-| ---------------: | :-----------: |  :----: |  :----: |  :----: |  :---------:  |  :----: |
-| Command Line     |    :fire:     |  :fire: |  :fire: |  :fire: |    :fire:     |         |
-| VS Code          |    :fire:     |  :fire: |  :fire: |  :fire: |    :fire:     |         |
-| Docker           |    :fire:     |  :fire: |         |         |               |         |
-| Git              |    :fire:     |  :fire: |  :fire: |  :fire: |               |         |
-| Github           |    :fire:     |  :fire: |  :fire: |  :fire: |               |         |
-| Gitlab           |    :fire:     |  :fire: |  :fire: |  :fire: |               |         |
-| Google Cloud     |    :fire:     |  :fire: |  :fire: |         |               |         |
-| Digital Ocean    |    :fire:     |  :fire: |         |         |               |         |
-| Heroku           |    :fire:     |  :fire: |         |         |               |         |
-| Chrome Dev Tools |    :fire:     |  :fire: |  :fire: |         |               |         |
-| Adobe XD         |    :fire:     |         |         |         |               |         |
+| Tools                  | Introduction  |  Basics |   Good  |   Mid   |   Confident   |  Master |
+| ---------------------: | :-----------: |  :----: |  :----: |  :----: |  :---------:  |  :----: |
+| Command Line (Bash)    |    :fire:     |  :fire: |  :fire: |  :fire: |    :fire:     |         |
+| VS Code                |    :fire:     |  :fire: |  :fire: |  :fire: |    :fire:     |         |
+| Docker                 |    :fire:     |  :fire: |         |         |               |         |
+| Git                    |    :fire:     |  :fire: |  :fire: |  :fire: |               |         |
+| Github                 |    :fire:     |  :fire: |  :fire: |  :fire: |               |         |
+| Gitlab                 |    :fire:     |  :fire: |  :fire: |         |               |         |
+| Google Cloud           |    :fire:     |  :fire: |  :fire: |         |               |         |
+| Digital Ocean          |    :fire:     |  :fire: |         |         |               |         |
+| Heroku                 |    :fire:     |  :fire: |         |         |               |         |
+| Chrome Dev Tools       |    :fire:     |  :fire: |  :fire: |  :fire: |               |         |
+| Trello                 |    :fire:     |  :fire: |  :fire: |  :fire: |               |         |
+| Monday                 |    :fire:     |  :fire: |  :fire: |  :fire: |               |         |
+| BuildBox               |    :fire:     |  :fire: |  :fire: |  :fire: |    :fire:     |         |
+| Adobe XD               |    :fire:     |         |         |         |               |         |
+| Crello                 |    :fire:     |  :fire: |  :fire: |  :fire: |    :fire:     |         |
+| Canva                  |    :fire:     |  :fire: |  :fire: |  :fire: |    :fire:     |         |
