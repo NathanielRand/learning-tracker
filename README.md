@@ -8,13 +8,13 @@
 
 |       Status       |  Year   |         Course         |     Teacher     |                    Links                  |
 | :----------------: | :-----: | :--------------------- |  :------------- | :---------------------------------------: |
-|       :soon:     |   2020  |  Full Stack Web Developer - Nanodegree Programm  |   Udacity  | [Course Link](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044) |
-|       :wrench:     |   2019  |  The Complete React Developer Course  |    Andrew Mead  | [Course Link](https://www.udemy.com/course/react-2nd-edition/) |
-|       :wrench:     |   2019  |  gRPC Golang Master Class: Build Modern API & Microservices  |    Stephane Maarek  | [Course Link](https://www.udemy.com/course/grpc-golang/) |
-| :white_check_mark: |   2018  |  Web Development w/ Go  |    Jon Calhoun    | [Course Link](https://www.usegolang.com/)     |
-| :white_check_mark: |   2017  |  Web Development w/ Google’s Go Programming Language  |    Todd McLeod    | [Course Link](https://www.udemy.com/course/go-programming-language/)     |
-| :white_check_mark: |   2016  |  Create an HTML5 Video Player |   Cocotuts Tutorials  | [Course Link](https://www.udemy.com/course/draft/294794/) |
-| :white_check_mark: |   2015  |  Ruby on Rails Tutorial       |    Michael Hartl      | [Course Link](https://www.railstutorial.org/) |
+|       :soon:     |   2020  |  Full Stack Web Developer - Nanodegree Program  |   Udacity  | [Course](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044) |
+|       :wrench:     |   2019  |  The Complete React Developer Course  |    Andrew Mead  | [Course](https://www.udemy.com/course/react-2nd-edition/) |
+|       :wrench:     |   2019  |  gRPC Golang Master Class: Build Modern API & Microservices  |    Stephane Maarek  | [Course](https://www.udemy.com/course/grpc-golang/) |
+| :white_check_mark: |   2018  |  Web Development w/ Go  |    Jon Calhoun    | [Course](https://www.usegolang.com/)     |
+| :white_check_mark: |   2017  |  Web Development w/ Google’s Go Programming Language  |    Todd McLeod    | [Course](https://www.udemy.com/course/go-programming-language/)     |
+| :white_check_mark: |   2016  |  Create an HTML5 Video Player |   Cocotuts Tutorials  | [Course](https://www.udemy.com/course/draft/294794/) |
+| :white_check_mark: |   2015  |  Ruby on Rails Tutorial       |    Michael Hartl      | [Course](https://www.railstutorial.org/) |
 
 
 ## Languages / Frameworks / Libraries / ETC
